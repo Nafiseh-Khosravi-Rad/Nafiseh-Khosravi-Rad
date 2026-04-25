@@ -5,11 +5,9 @@
 📍 Montreal, Canada
 
 🧠 About Me
-
 I am a Software Development student with a strong academic foundation in Translation Studies and bilingual language analysis (English–Persian).
 
 I hold:
-
 🎓 M.A. in Translation Studies (2018) – Ferdowsi University of Mashhad
 🎓 B.A. in English–Persian Translation (2011) - Payam Noor University
 🎓 Diploma in IT Support (2020) – Teccart Institute, Montreal
@@ -24,11 +22,10 @@ NLP systems using Python and transformer-based models
 Semantic similarity, embeddings, and multilingual representation
 Low-resource language challenges (Persian NLP)
 Preparing for research publication (ACL / EMNLP level)
+
 💻 Projects
 🔹 LinguistAligner
-
 English–Persian sentence alignment system featuring:
-
 Text preprocessing (tokenization, normalization)
 Frequency-based and vector similarity analysis
 Structured dataset generation for NLP pipelines
