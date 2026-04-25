@@ -39,11 +39,11 @@ Structured dataset generation for NLP pipelines
 Transformer-based semantic similarity for Persian
 Evaluation of multilingual embeddings (MTEB-style benchmarks)
 Fine-tuning models on low-resource datasets
-🛠 Tech Stack
 
-Languages: Python, Java
-NLP/ML: Transformers, Embeddings, Tokenization
-Tools: Git, VS Code, Data processing pipelines
+🛠Tech Stack
+Languages: Python | Java
+NLP/ML: Transformers (Hugging Face), Tokenization, Embeddings, Text Preprocessing, Semantic Similarity
+Tools: Git, VS Code, Jupyter Notebook, Data processing pipelines, Overleaf (LaTeX)
 
 📚 Research Interests
 Low-resource NLP
